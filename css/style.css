@@ -178,7 +178,7 @@ body .container .controles ion-icon {
     z-index: 1;
   }
 }
-@media screen and (min-width: 800px) {
+@media screen and (max-width: 800px) {
   .cuadrado:nth-child(3) {
     width: 80px;
     height: 80px;
